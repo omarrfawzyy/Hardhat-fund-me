@@ -5,7 +5,6 @@ This is a section of the Javascript Blockchain/Smart Contract Course.
 - [Hardhat Fund Me](#hardhat-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
   - [Typescript](#typescript)
     - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
@@ -35,14 +34,6 @@ This project is apart of the Hardhat FreeCodeCamp video.
   - You'll know you've installed yarn right if you can run:
     - `yarn --version` and get an output like: `x.x.x`
     - You might need to [install it with `npm`](https://classic.yarnpkg.com/lang/en/docs/install/) or `corepack`
-
-## Quickstart
-
-```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
-cd hardhat-fund-me-fcc
-yarn
-```
 
 ## Typescript
 
